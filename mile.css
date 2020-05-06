@@ -1,0 +1,22 @@
+body{
+    background:#F3D1C9;
+    font-size:125%;
+     font-variant:small-caps;
+    font-family:Arial."Times New Roman",serif;
+}
+h1{
+    background: #B3B3B3;
+}
+header{
+    background:#0000ac;
+    
+}
+
+h2{
+    background:#00b7ea;
+    color:#fffffff;
+}
+p{
+   
+    font-size:100%;
+    }
